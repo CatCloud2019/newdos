@@ -15,6 +15,6 @@ chmod a+w /etc/hosts
 # 追加你的～下tmp.hosts的文件到系统hosts文件里
 cat /home/downs/tmp.hosts >> /etc/hosts
 ```
-使用方法：
-chmod +x update_hosts.sh增加可执行权限，运行：
-update.sh 6 更新为ipv6的host，默认为ipv4的hosts。
+#使用方法：
+# chmod +x update_hosts.sh增加可执行权限，运行：
+# update.sh 6 更新为ipv6的host，默认为ipv4的hosts。
