@@ -1,4 +1,3 @@
-```
 ipv6=$1
 work_path="/home/"
 rm $work_path/hosts*
