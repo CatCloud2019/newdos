@@ -1,6 +1,7 @@
 
 work_path="/root"
 rm $work_path/hosts*
+mkdir /root/hosts
 cp /etc/hosts $work_path/._backhosts
 wget https://raw.githubusercontent.com/CatCloud2019/newdos/master/hosts/ipv4/hosts  -O $work_path/hosts
 mv $work_path/hosts /etc/hosts
