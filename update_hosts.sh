@@ -9,7 +9,7 @@ else
 	wget https://raw.githubusercontent.com/CatCloud2019/newdos/master/hosts/ipv6/hosts -O $work_path/hosts
 fi
 mv $work_path/hosts /etc/hosts
-chown find.find /etc/hosts
+chown root:root /etc/hosts
 chmod a+w /etc/hosts
 # 追加你的～下tmp.hosts的文件到系统hosts文件里
 cat /home/tmp.hosts >> /etc/hosts
