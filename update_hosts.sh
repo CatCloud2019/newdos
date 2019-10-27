@@ -2,7 +2,7 @@ ipv6=$1
 work_path="/home/"
 rm $work_path/hosts*
 cp /etc/hosts $work_path/._backhosts
-if [ "$ipv6" = "4" ]
+if [ "$ipv6" = "6" ]
 then
 	 wget https://raw.githubusercontent.com/CatCloud2019/newdos/master/hosts/ipv4/hosts  -O $work_path/hosts
 else
