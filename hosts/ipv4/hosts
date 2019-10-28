@@ -1,3 +1,5 @@
+# Up 191029A
+
 # 屏蔽迅雷
 
 0.0.0.0 kkpgv3.xunlei.com
@@ -149,6 +151,17 @@
 0.0.0.0 mp.weixin.com
 0.0.0.0 short.weixin.qq.com
 0.0.0.0 zhidao.baidu.com
+0.0.0.0 wangpan.baidu.com
+0.0.0.0 pan.baidu.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 www.baidupcs.com
+0.0.0.0 d.pcs.baidu.com
+0.0.0.0 www.baifubao.com
+0.0.0.0 e.baidu.com
+0.0.0.0 baijiahao.baidu.com
+0.0.0.0 baike.baidu.com
+0.0.0.0 wenku.baidu.com
+0.0.0.0 jingyan.baidu.com
 0.0.0.0 news.baidu.com
 0.0.0.0 image.baidu.com
 0.0.0.0 e.baidu.com
@@ -190,6 +203,7 @@
 0.0.0.0 tv.sohu.com
 0.0.0.0 v.ifeng.com
 0.0.0.0 v.youku.com
+0.0.0.0 ems.youku.com
 0.0.0.0 www.iqiyi.com
 0.0.0.0 krcom.cn
 0.0.0.0 v.360kan.com
@@ -229,3 +243,10 @@
 0.0.0.0 www.jsycrcb.com
 0.0.0.0 www.sdebank.com
 0.0.0.0 www.cdrcb.com
+
+屏蔽导航推广
+0.0.0.0 asl.m.hao123.com
+0.0.0.0 union2.50bang.org
+0.0.0.0 www.50bang.org
+0.0.0.0 cpro.baidustatic.com
+0.0.0.0 phs.tanx.com
