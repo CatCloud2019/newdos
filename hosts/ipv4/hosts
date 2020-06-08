@@ -1,4 +1,4 @@
-##### Up 202005A03
+##### Up 202006A01
 ######### 
 
 
@@ -337,6 +337,12 @@
 0.0.0.0 www.xiaomi.cn
 0.0.0.0 prod.api.xiaomi.cn
 0.0.0.0 rs.vip.miui.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad1.xiaomi.com
+0.0.0.0 ad.mi.com
+0.0.0.0 tat.pandora.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 t7z.cupid.ptqy.gitv.tv
 #huawei
 0.0.0.0 console.huaweicloud.com
 0.0.0.0 forum.huawei.com
