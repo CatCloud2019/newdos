@@ -23,6 +23,7 @@
 0.0.0.0 api.so.lianmeng.360.cn
 0.0.0.0 browser.360.cn
 0.0.0.0 tt.browser.360.cn
+0.0.0.0 puv.tt.browser.360.cn
 0.0.0.0 s.qhupdate.com
 0.0.0.0 res.qhupdate.com
 0.0.0.0 360safe.com
@@ -504,7 +505,9 @@ h2.vipstatic.com
 0.0.0.0 login.weixin.qq.com
 0.0.0.0 btrace.qq.com
 0.0.0.0 qbwup.imtt.qq.com
+0.0.0.0 wup.imtt.qq.com
 0.0.0.0 imap.qq.com
+0.0.0.0 mazu.m.qq.com
 #sina&weibo
 0.0.0.0 www.sina.com.cn
 0.0.0.0 ent.sina.com.cn
@@ -600,8 +603,11 @@ h2.vipstatic.com
 0.0.0.0 www.58.com
 0.0.0.0 dingtalk.com
 0.0.0.0 www.dingtalk.com
+0.0.0.0 static.dingtalk.com
 0.0.0.0 m.dingtalk.com
 0.0.0.0 page.dingtalk.com
+0.0.0.0 poa.dingtalk.com
+0.0.0.0 h5.dingtalk.com
 #搜狗
 0.0.0.0 www.sogou.com
 0.0.0.0 news.sogou.com
@@ -625,6 +631,8 @@ h2.vipstatic.com
 0.0.0.0 pc.profile.pinyin.sogou.com
 0.0.0.0 hhytrace.sogoucdn.com
 0.0.0.0 config.pinyin.sogou.com
+0.0.0.0 ping.pinyin.sogou.com
+0.0.0.0 get.sogou.com
 #douban
 0.0.0.0 www.douban.com
 0.0.0.0 movie.douban.com
@@ -1096,3 +1104,30 @@ h2.vipstatic.com
 0.0.0.0 thehiddenwiki.org
 0.0.0.0 tianji1.net
 0.0.0.0 www.tianji1.net
+#jinrong
+0.0.0.0 www.mucfc.com
+0.0.0.0 llh.mucfc.com
+0.0.0.0 m-zl.mucfc.com
+0.0.0.0 m-llh.mucfc.com
+0.0.0.0 www.rong360.com
+0.0.0.0 daikuan.51credit.com
+0.0.0.0 www.chaoqi.net
+0.0.0.0 www.jiasudai.com
+0.0.0.0 www.rongfangdai.com
+0.0.0.0 www.lie-dai.com
+0.0.0.0 loans.cardbaobao.com
+0.0.0.0 www.haodai.com
+0.0.0.0 loan.cngold.org
+0.0.0.0 www.rongziw.com
+0.0.0.0 www.edai.com
+0.0.0.0 www.fa.cn
+0.0.0.0 daikuan.pingan.com
+0.0.0.0 www.dai12345.com
+0.0.0.0 loan.jrj.com.cn
+0.0.0.0 www.zhongguodai.com
+0.0.0.0 www.shdaikuan.com
+0.0.0.0 www.roadoor.com
+0.0.0.0 www.ihouze.com
+0.0.0.0 bank.pingan.com
+0.0.0.0 www.cdyushun.com
+0.0.0.0 www.gzjy168.com
