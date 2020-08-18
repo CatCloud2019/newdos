@@ -1,4 +1,4 @@
-##### Up 202008A01
+##### Up 202008A02
 ######### 
 
 
@@ -261,6 +261,22 @@
 ######屏蔽官方平台######
 0.0.0.0 www.gov.cn
 0.0.0.0 gov.cn
+0.0.0.0 www.cac.gov.cn
+0.0.0.0 cac.gov.cn
+0.0.0.0 www.miit.gov.cn
+0.0.0.0 www.cnnic.net.cn
+0.0.0.0 cnnic.net.cn
+0.0.0.0 www.cnnic.cn
+0.0.0.0 www.conac.cn
+0.0.0.0 www.cniotroot.cn
+0.0.0.0 www.ispl.cn
+0.0.0.0 ispl.mps.gov.cn
+0.0.0.0 www.isccc.gov.cn
+0.0.0.0 www.itsec.gov.cn
+0.0.0.0 www.cert.org.cn
+0.0.0.0 ythzxfw.miit.gov.cn
+0.0.0.0 www.apac.cn
+0.0.0.0 www.cnvd.org.cn
 0.0.0.0 www.gfbzb.gov.cn
 0.0.0.0 www.chinatax.gov.cn
 0.0.0.0 beian.miit.gov.cn
@@ -507,6 +523,7 @@ h2.vipstatic.com
 0.0.0.0 qbwup.imtt.qq.com
 0.0.0.0 wup.imtt.qq.com
 0.0.0.0 imap.qq.com
+0.0.0.0 wp.mail.qq.com
 0.0.0.0 mazu.m.qq.com
 #sina&weibo
 0.0.0.0 www.sina.com.cn
@@ -963,6 +980,10 @@ h2.vipstatic.com
 0.0.0.0 www.zhengjian.org
 0.0.0.0 www.zhengjian.net
 0.0.0.0 www.zhengjian.com
+#zz
+0.0.0.0 lih.kg
+0.0.0.0 lihkg.com
+0.0.0.0 cdn.lihkg.com
 #屏蔽 马克丁 流氓盗版
 0.0.0.0 www.yuanchengxiezuo.com
 0.0.0.0 xiazai.yuanchengxiezuo.com
@@ -1072,17 +1093,6 @@ h2.vipstatic.com
 0.0.0.0 xiazai.zhzzx.com
 0.0.0.0 www.4009997658.com
 0.0.0.0 4009997658.com
-# 带宽占用
-0.0.0.0 fast.com
-0.0.0.0 www.fast.com
-0.0.0.0 fast.net
-0.0.0.0 www.fast.net
-0.0.0.0 fast.org
-0.0.0.0 speedtest.net
-0.0.0.0 www.speedtest.net
-0.0.0.0 html5.speedtest.net
-0.0.0.0 cachefly.net
-0.0.0.0 cachefly.cachefly.net
 #TV
 #lebo
 0.0.0.0 sdkauth.hpplay.cn
