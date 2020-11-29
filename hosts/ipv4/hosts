@@ -1,4 +1,4 @@
-##### Up 202008A02
+##### Up 202011A01
 ######### 
 
 
@@ -15,6 +15,9 @@
 0.0.0.0 360.com
 0.0.0.0 360.cn
 0.0.0.0 p.s.360.cn
+0.0.0.0 qurl.f.360.cn
+0.0.0.0 tip.f.360.cn
+0.0.0.0 tconf.f.360.cn
 0.0.0.0 down.360.com
 0.0.0.0 s.360.cn
 0.0.0.0 socm.dmp.360.cn
@@ -77,6 +80,7 @@
 0.0.0.0 music.so.com
 0.0.0.0 soft.so.com
 0.0.0.0 www.fenxi.com
+0.0.0.0 c.sayhi.360.c
 # 屏蔽2345全家桶
 0.0.0.0 www.2345.com
 0.0.0.0 safe.2345.cc
@@ -369,15 +373,12 @@
 0.0.0.0 tech.163.com
 0.0.0.0 bbs.cnmo.com
 # xiaomi
-0.0.0.0 www.mi.com
 0.0.0.0 jr.mi.com
 0.0.0.0 account.xiaomi.com
 0.0.0.0 cn.account.xiaomi.com
 0.0.0.0 app.mi.com
 0.0.0.0 i.mi.com
-0.0.0.0 www.huawei.com
 0.0.0.0 hr.xiaomi.com
-0.0.0.0 www.xiaomi.cn
 0.0.0.0 prod.api.xiaomi.cn
 0.0.0.0 rs.vip.miui.com
 0.0.0.0 ad.xiaomi.com
@@ -389,6 +390,63 @@
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 tracker.ai.xiaomi.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad1.xiaomi.com
+0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 appstore.cdn.pandora.xiaomi.com
+0.0.0.0 appstore.pandora.xiaomi.com
+0.0.0.0 api.io.mi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 bss.pandora.xiaomi.com
+0.0.0.0 gallery.cp.pandora.xiaomi.com
+0.0.0.0 b.netcheck.gallery.pandora.xiaomi.com
+0.0.0.0 broker.mqtt.pandora.xiaomi.com
+0.0.0.0 config.kuyun.com
+0.0.0.0 dvb.pandora.xiaomi.com
+0.0.0.0 de.pandora.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 device.io.mi.com
+0.0.0.0 f1.market.xiaomi.com
+0.0.0.0 f2.market.xiaomi.com
+0.0.0.0 f3.market.xiaomi.com
+0.0.0.0 f4.market.xiaomi.com
+0.0.0.0 f5.market.xiaomi.com
+0.0.0.0 f1.market.mi-img.com
+0.0.0.0 f2.market.mi-img.com
+0.0.0.0 f3.market.mi-img.com
+0.0.0.0 f4.market.mi-img.com
+0.0.0.0 f5.market.mi-img.com
+0.0.0.0 file.xmpush.xiaomi.com
+0.0.0.0 gvod.aiseejapp.atianqi.com
+0.0.0.0 g.dtv.cn.miaozhan.com
+0.0.0.0 gallery.pandora.xiaomi.com
+0.0.0.0 jellyfish.pandora.xiaomi.com
+0.0.0.0 logonext.tv.kuyun.com
+0.0.0.0 mishop.pandora.xiaomi.com
+0.0.0.0 milink.pandora.xiaomi.com
+0.0.0.0 misc.pandora.xiaomi.com
+0.0.0.0 mitv.tracking.miui.com
+0.0.0.0 metok.sys.miui.com
+0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 o2o.api.xiaomi.com.lan
+0.0.0.0 package.box.xiaomi.com
+0.0.0.0 pandora.mi.com
+0.0.0.0 redirect.pandora.xiaomi.com
+0.0.0.0 register.xmpush.xiaomi.com
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 r.browser.miui.com
+0.0.0.0 stat.pandora.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 staging.ai.api.xiaomi.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tv.weixin.pandora.xiaomi.com
+0.0.0.0 tvmanager.pandora.xiaomi.com
+0.0.0.0 tvmgr.pandora.xiaomi.com
+0.0.0.0 tat.pandora.xiaomi.com
+0.0.0.0 t7z.cupid.ptqy.gitv.tv
+0.0.0.0 upgrade.mishop.pandora.xiaomi.com
+0.0.0.0 v.admaster.com.cn
 #huawei
 0.0.0.0 console.huaweicloud.com
 0.0.0.0 forum.huawei.com
@@ -396,6 +454,7 @@
 0.0.0.0 cn.ui.vmall.com
 0.0.0.0 cn.club.vmall.com
 0.0.0.0 xinsheng.huawei.com
+0.0.0.0 hitouch.hicloud.com
 #toutiao
 0.0.0.0 www.toutiao.com
 0.0.0.0 m.toutiao.com
@@ -493,15 +552,16 @@
 0.0.0.0 detail.vip.com
 0.0.0.0 global.vip.com
 0.0.0.0 beauty.vip.com
-lady.vip.com
-kid.vip.com
-mapi-rp.vip.com
-sc.appvipshop.com
-h2.vipstatic.com
+0.0.0.0 lady.vip.com
+0.0.0.0 kid.vip.com
+0.0.0.0 mapi-rp.vip.com
+0.0.0.0 sc.appvipshop.com
+0.0.0.0 h2.vipstatic.com
 #qq
 0.0.0.0 growthpic.weishi.qq.com
 0.0.0.0 upage.imtt.qq.com
 0.0.0.0 upage.html5.qq.com
+0.0.0.0 client.show.qq.com
 0.0.0.0 down.qq.com
 0.0.0.0 news.qq.com
 0.0.0.0 coral.qq.com
@@ -513,6 +573,7 @@ h2.vipstatic.com
 0.0.0.0 short.weixin.qq.com
 0.0.0.0 extshort.weixin.qq.com
 0.0.0.0 szminorshort.weixin.qq.com
+0.0.0.0 szextshort.weixin.qq.com
 0.0.0.0 res.wx.qq.com
 0.0.0.0 wx.qq.com
 0.0.0.0 login.wx.qq.com
@@ -525,9 +586,12 @@ h2.vipstatic.com
 0.0.0.0 imap.qq.com
 0.0.0.0 wp.mail.qq.com
 0.0.0.0 mazu.m.qq.com
+0.0.0.0 webim.tim.qq.com
+0.0.0.0 dnet.mb.qq.com
 #sina&weibo
 0.0.0.0 www.sina.com.cn
 0.0.0.0 ent.sina.com.cn
+0.0.0.0 blog.sina.com.cn
 0.0.0.0 slide.news.sina.com.cn
 0.0.0.0 ent.sina.com.cn
 0.0.0.0 news.sina.com.cn
@@ -627,6 +691,7 @@ h2.vipstatic.com
 0.0.0.0 h5.dingtalk.com
 #搜狗
 0.0.0.0 www.sogou.com
+0.0.0.0 ime.sogou.com
 0.0.0.0 news.sogou.com
 0.0.0.0 weixin.sogou.com
 0.0.0.0 zhihu.sogou.com
@@ -649,7 +714,8 @@ h2.vipstatic.com
 0.0.0.0 hhytrace.sogoucdn.com
 0.0.0.0 config.pinyin.sogou.com
 0.0.0.0 ping.pinyin.sogou.com
-0.0.0.0 get.sogou.com
+0.0.0.0 extie.sogoucdn.com
+0.0.0.0 download.pinyin.sogou.com
 #douban
 0.0.0.0 www.douban.com
 0.0.0.0 movie.douban.com
@@ -661,7 +727,9 @@ h2.vipstatic.com
 0.0.0.0 www.taobao.com
 0.0.0.0 m.taobao.com
 0.0.0.0 main.m.taobao.com
+0.0.0.0 retcode.taobao.com
 0.0.0.0 h5.m.taobao.com
+0.0.0.0 h5api.m.taobao.com
 0.0.0.0 s.m.taobao.com
 0.0.0.0 item.taobao.com
 0.0.0.0 tmall.com
@@ -675,6 +743,8 @@ h2.vipstatic.com
 0.0.0.0 acookie.taobao.com
 0.0.0.0 g.click.taobao.com
 0.0.0.0 h-adashx.ut.taobao.com
+0.0.0.0 qn-tcmallot.im.taobao.com
+0.0.0.0 fourier.taobao.com
 #JD
 0.0.0.0 www.jd.com
 0.0.0.0 club.jd.com
@@ -740,6 +810,13 @@ h2.vipstatic.com
 0.0.0.0 qiye.youboy.com
 # tj
 0.0.0.0 uuid.users.51.la
+# wps
+0.0.0.0 wps.cn
+0.0.0.0 drive.wps.cn
+0.0.0.0 pcfg.wps.cn
+0.0.0.0 qing.wps.cn
+# 2144
+0.0.0.0 mini.flash.2144.com
 ########屏蔽视频网站##########
 #rm
 0.0.0.0 v.people.cn
@@ -772,6 +849,7 @@ h2.vipstatic.com
 0.0.0.0 static.youku.com
 # 腾讯视频
 0.0.0.0 v.qq.com
+0.0.0.0 soup.v.qq.com
 0.0.0.0 btrace.video.qq.com
 0.0.0.0 v.smtcdns.com
 0.0.0.0 mfm.video.qq.com
@@ -855,8 +933,11 @@ h2.vipstatic.com
 0.0.0.0 mycard520.com.tw
 0.0.0.0 member.mycard520.com.tw
 ##########推广AD############
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 gm.mmstat.com
 0.0.0.0 ads.trafficjunky.net
+0.0.0.0 vz-cdn.trafficjunky.net
+0.0.0.0 static.trafficjunky.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
@@ -870,6 +951,10 @@ h2.vipstatic.com
 0.0.0.0 sp0.baidu.com
 0.0.0.0 sp1.baidu.com
 0.0.0.0 lijit.com
+0.0.0.0 a.adtng.com
+0.0.0.0 hw-cdn2.adtng.com
+0.0.0.0 vz-cdn2.adtng.com
+0.0.0.0 as.2020mustang.com
 #tanx
 0.0.0.0 p.tanx.com
 0.0.0.0 click.tanx.com
